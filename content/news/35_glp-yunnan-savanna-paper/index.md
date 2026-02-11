@@ -4,7 +4,6 @@ external_link: https://glp.earth/news-events/news/greater-loss-and-fragmentation
 summary: GLP News featured our historical savanna cover change analysis in Yunnan.
 tags:
 - GLP
-- recent
 title: Global Land Programme
 url_code: ""
 url_pdf: ""

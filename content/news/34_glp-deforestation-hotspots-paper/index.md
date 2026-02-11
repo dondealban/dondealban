@@ -4,7 +4,6 @@ external_link: https://glp.earth/news-events/news/spatiotemporal-analysis-defore
 summary: Our analysis of deforestation hotspots in Southeast Asia is in the GLP News.
 tags:
 - GLP
-- recent
 title: Global Land Programme
 url_code: ""
 url_pdf: ""

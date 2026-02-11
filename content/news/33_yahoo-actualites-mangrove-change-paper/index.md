@@ -4,7 +4,6 @@ external_link: https://fr.news.yahoo.com/mangroves-pourquoi-pourraient-sauver-pl
 summary: Our paper on historical mangrove change in Myanmar featured in Yahoo! Actualités.
 tags:
 - outlets
-- recent
 title: Yahoo! Actualités
 url_code: ""
 url_pdf: ""

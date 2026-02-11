@@ -4,7 +4,6 @@ external_link: https://glp.earth/news-events/news/drivers-and-mechanisms-forest-
 summary: Our systematic review of forest change in the Himalayas is in the GLP News.
 tags:
 - GLP
-- recent
 title: Global Land Programme
 url_code: ""
 url_pdf: ""
