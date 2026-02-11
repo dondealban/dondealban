@@ -38,6 +38,14 @@ subtitle = ""
   [[content.filter_button]]
     name = "iNGOs"
     tag = "iNGOs"
+
+  [[content.filter_button]]
+    name = "Media"
+    tag = "media"
+    
+  [[content.filter_button]]
+    name = "Newspapers"
+    tag = "newspapers"
     
   [[content.filter_button]]
     name = "NUS"
