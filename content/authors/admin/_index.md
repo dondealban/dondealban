@@ -23,9 +23,9 @@ interests:
 - Southeast Asia
 name: Jose Don T De Alban
 organizations:
-- name: EcoCaraga Pte Ltd
-  url: "https://www.linkedin.com/company/ecocaraga"
-role: Chief Technical Officer 
+- name: ""
+  url: ""
+role: "" 
 social:
 - icon: twitter
   icon_pack: fab
@@ -56,12 +56,12 @@ user_groups:
 - Researchers
 - Visitors
 ---
-I am a conservationist, geographer, and engineer, bringing over 20 years of experience in applied conservation science and practice, geomatics engineering, and programme development and management, to deliver a comprehensive approach to the design, development, and implementation of nature-based carbon projects and nature conservation programmes. I am also keenly interested in scientific research focused on understanding land change as coupled human-natural systems, with an aim to develop solutions to address sustainability challenges in Southeast Asia.
+I am a conservationist, geographer, and engineer, bringing over 20 years of experience in applied conservation science and practice, geomatics engineering, and programme development and management, to deliver a comprehensive approach to the design, development, and implementation of nature-based carbon projects and nature conservation programmes. My scientific research interests focuses on understanding land change as coupled human-natural systems, with an aim to develop solutions to address sustainability challenges in Southeast Asia.
 
-Presently, I am the Chief Technical Officer at [EcoCaraga](https://www.linkedin.com/company/ecocaraga/), a Singapore-based company developing nature-based carbon projects across Southeast Asia, and formerly the Global Head of Remote Sensing and Geospatial Analysis at [ClearWind](https://www.linkedin.com/company/clearwindearth) after a merger and acquisition process.
+Recently, I was the Chief Technical Officer at [EcoCaraga](https://www.linkedin.com/company/ecocaraga/), a Singapore-based company developing nature-based carbon projects across Southeast Asia, and formerly the Global Head of Remote Sensing and Geospatial Analysis at [ClearWind](https://www.linkedin.com/company/clearwindearth) after an M&A process (2023–2026).
 
-Previously, I was a senior researcher at the [National University of Singapore](http://www.nus.edu.sg) (2016–2023), most notably at the [Centre for Nature-based Climate Solutions](https://www.nus.edu.sg/cncs/jose-don-de-alban/) where I led, managed, and coordinated its regional Carbon Market Integrity R&D programme in Southeast Asia.
+From 2016–2023, I was a senior researcher at the [National University of Singapore](http://www.nus.edu.sg) (2016–2023), most notably at the [Centre for Nature-based Climate Solutions](https://www.nus.edu.sg/cncs/jose-don-de-alban/) where I led its regional Carbon Market Integrity R&D programme in Southeast Asia.
 
-Prior to joining academia (c. 2000–2015), I was a conservation practitioner-scientist and worked with international, national, and local conservation organisations including [Fauna & Flora International](https://www.fauna-flora.org), [Foundation for the Philippine Environment](https://fpe.ph), and [Haribon Foundation](https://haribon.org.ph).
+From 2000–2015, I was a conservation practitioner-scientist and worked with international, national, and local conservation organisations including [Fauna & Flora International](https://www.fauna-flora.org), [Foundation for the Philippine Environment](https://fpe.ph), and [Haribon Foundation](https://haribon.org.ph).
 
 I am a member of the [Global Land Programme](https://glp.earth/users/jose-don-de-alban), [Biodiversity Conservation Society of the Philippines](http://www.biodiversity.ph), [Philippine Geographical Society](https://phgeographicalsociety.org), and a science team member of the [ALOS Kyoto & Carbon Initiative](https://www.eorc.jaxa.jp/ALOS/en/kyoto/kyoto_index.htm), an international research collaboration led by [Japan Aerospace Exploration Agency](https://www.eorc.jaxa.jp/ALOS/a/en/activity/kc_e.htm).
