@@ -15,7 +15,7 @@ date: "2024-01-10T00:00:00Z"
 doi: "10.1038/s41586-023-06820-z"
 featured: true
 image:
-  placement: 1
+  placement: 2
   caption: ""
   focal_point: "center"
   preview_only: false
