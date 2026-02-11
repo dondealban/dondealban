@@ -56,7 +56,7 @@ user_groups:
 - Researchers
 - Visitors
 ---
-I am a conservationist, geographer, and engineer, bringing over 20 years of experience in applied conservation science and practice, geomatics engineering, and programme development and management, to deliver a comprehensive approach to the design, development, and implementation of nature-based carbon projects and nature conservation programmes. My scientific research interests focuses on understanding land change as coupled human-natural systems, with an aim to develop solutions to address sustainability challenges in Southeast Asia.
+I am a conservationist, geographer, and engineer, bringing over 20 years of experience in applied conservation science and practice, geomatics engineering, and programme management, to deliver a comprehensive approach to the design, development, and implementation of nature-based carbon projects and nature conservation programmes. My scientific research interests focus on understanding land change as coupled human-natural systems, with an aim to develop solutions to address sustainability challenges in Southeast Asia.
 
 Recently, I was the Chief Technical Officer at [EcoCaraga](https://www.linkedin.com/company/ecocaraga/), a Singapore-based company developing nature-based carbon projects across Southeast Asia, and formerly the Global Head of Remote Sensing and Geospatial Analysis at [ClearWind](https://www.linkedin.com/company/clearwindearth) after an M&A process (2023–2026).
 
