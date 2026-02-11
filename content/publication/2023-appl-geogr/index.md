@@ -10,6 +10,7 @@ date: "2023-01-01T00:00:00Z"
 doi: "10.1016/j.apgeog.2022.102838"
 featured: false
 image:
+  placement: 3
   caption: "Example for one sampling plot where rubber plantations have been cleared for oil palm in Indonesia. (a) satellite images of the plot in 2005, (b) 2014, (c) 2018 and (d) the surrounding area in 2018."
   focal_point: ""
   preview_only: false
