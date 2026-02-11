@@ -10,7 +10,350 @@ authors:
 - Ferry Slik
 - Bonaventure Sonké
 - Corneille E N Ewango
+- Stephen Adu-Bredu
+- Kofi Affum-Baffoe
+- Daniel P P de Aguiar
+- Manuel Augusto Ahuite Reategui
+- Shin-Ichiro Aiba
+- Bianca Weiss Albuquerque
+- Francisca Dionízia de Almeida Matos
+- Alfonso Alonso
+- Christian A Amani
+- Dário Dantas do Amaral
+- Iêda Leão do Amaral
+- Ana Andrade
+- Ires Paula de Andrade Miranda
+- Ilondea B Angoboy
+- Alejandro Araujo-Murakami
+- Nicolás Castaño Arboleda
+- Luzmila Arroyo
+- Peter Ashton
+- Gerardo A Aymard C
+- Cláudia Baider
+- Timothy R Baker
+- Michael Philippe Bessike Balinga
+- Henrik Balslev
+- Lindsay F Banin
+- Olaf S Bánki
+- Chris Baraloto
+- Edelcilio Marques Barbosa
+- Flávia Rodrigues Barbosa
+- Jos Barlow
+- Jean-Francois Bastin
+- Hans Beeckman
+- Serge Begne
+- Natacha Nssi Bengone
+- Erika Berenguer
+- Nicholas Berry
+- Robert Bitariho
+- Pascal Boeckx
+- Jan Bogaert
+- Bernard Bonyoma
+- Patrick Boundja
+- Nils Bourland
+- Faustin Boyemba Bosela
+- Fabian Brambach
+- Roel Brienen
+- David F R P Burslem
+- José Luís Camargo
+- Wegliane Campelo
+- Angela Cano
+- Sasha Cárdenas
+- Dairon Cárdenas López
+- Rainiellen de Sá Carpanedo
+- Yrma Andreina Carrero Márquez
+- Fernanda Antunes Carvalho
+- Luisa Fernanda Casas
+- Hernán Castellanos
+- Carolina V Castilho
+- Carlos Cerón
+- Colin A Chapman
+- Jerome Chave
+- Phourin Chhang
+- Wanlop Chutipong
+- George B Chuyong
+- Bruno Barçante Ladvocat Cintra
+- Connie J Clark
+- Fernanda Coelho de Souza
+- James A Comiskey
+- David A Coomes
+- Fernando Cornejo Valverde
+- Diego F Correa
+- Flávia R C Costa
+- Janaina Barbosa Pedrosa Costa
+- Pierre Couteron
+- Heike Culmsee
+- Aida Cuni-Sanchez
+- Francisco Dallmeier
+- Gabriel Damasco
+- Gilles Dauby
+- Nállarett Dávila
+- Hilda Paulette Dávila Doza
 - admin
+- Rafael L de Assis
+- Charles De Canniere
+- Thales De Haulleville
+- Marcelo de Jesus Veiga Carim
+- Layon O Demarchi
+- Kyle G Dexter
+- Anthony Di Fiore
+- Hazimah Haji Mohammad Din
+- Mathias I Disney
+- Brice Yannick Djiofack
+- Marie-Noël K Djuikouo
+- Tran Van Do
+- Jean-Louis Doucet
+- Freddie C Draper
+- Vincent Droissart
+- Joost F Duivenvoorden
+- Julien Engel
+- Vittoria Estienne
+- William Farfan-Rios
+- Sophie Fauset
+- Kenneth J Feeley
+- Yuri Oliveira Feitosa
+- Ted R Feldpausch
+- Cid Ferreira
+- Joice Ferreira
+- Leandro Valle Ferreira
+- Christine D Fletcher
+- Bernardo Monteiro Flores
+- Alusine Fofanah
+- Ernest G Foli
+- Émile Fonty
+- Gabriella M Fredriksson
+- Alfredo Fuentes
+- David Galbraith
+- George Pepe Gallardo Gonzales
+- Karina Garcia-Cabrera
+- Roosevelt García-Villacorta
+- Vitor H F Gomes
+- Ricardo Zárate Gómez
+- Therany Gonzales
+- Rogerio Gribel
+- Marcelino Carneiro Guedes
+- Juan Ernesto Guevara
+- Khalid Rehman Hakeem
+- Jefferson S Hall
+- Keith C Hamer
+- Alan C Hamilton
+- David J Harris
+- Rhett D Harrison
+- Terese B Hart
+- Andy Hector
+- Terry W Henkel
+- John Herbohn
+- Mireille B N Hockemba
+- Bruce Hoffman
+- Milena Holmgren
+- Euridice N Honorio Coronado
+- Isau Huamantupa-Chuquimaco
+- Wannes Hubau
+- Nobuo Imai
+- Mariana Victória Irume
+- Patrick A Jansen
+- Kathryn J Jeffery
+- Eliana M Jimenez
+- Tommaso Jucker
+- André Braga Junqueira
+- Michelle Kalamandeen
+- Narcisse G Kamdem
+- Kuswata Kartawinata
+- Emmanuel Kasongo Yakusu
+- John M. Katembo
+- Elizabeth Kearsley
+- David Kenfack
+- Michael Kessler
+- Thiri Toe Khaing
+- Timothy J Killeen
+- Kanehiro Kitayama
+- Bente Klitgaard
+- Nicolas Labrière
+- Yves Laumonier
+- Susan G W Laurance
+- William F Laurance
+- Félix Laurent
+- Tinh Cong Le
+- Trai Trong Le
+- Miguel E Leal
+- Evlyn Márcia Leão de Moraes Novo
+- Aurora Levesley
+- Moses B Libalah
+- Juan Carlos Licona
+- Diógenes de Andrade Lima Filho
+- Jeremy A Lindsell
+- Aline Lopes
+- Maria Aparecida Lopes
+- Jon C Lovett
+- Richard Lowe
+- José Rafael Lozada
+- Xinghui Lu
+- Nestor K Luambua
+- Bruno Garcia Luize
+- Paul Maas
+- José Leonardo Lima Magalhães
+- William E Magnusson
+- Ni Putu Diana Mahayani
+- Jean-Remy Makana
+- Yadvinder Malhi
+- Lorena Maniguaje Rincón
+- Asyraf Mansor
+- Angelo Gilberto Manzatto
+- Beatriz S. Marimon
+- Ben Hur Marimon-Junior
+- Andrew R Marshall
+- Maria Pires Martins
+- Faustin M Mbayu
+- Marcelo Brilhante de Medeiros
+- Italo Mesones
+- Faizah Metali
+- Vianet Mihindou
+- Jerome Millet
+- William Milliken
+- Hugo F Mogollón
+- Jean-François Molino
+- Mohd Nizam Mohd Said
+- Abel Monteagudo Mendoza
+- Juan Carlos Montero
+- Sam Moore
+- Bonifacio Mostacedo
+- Linder Felipe Mozombite Pinto
+- Sharif Ahmed Mukul
+- Pantaleo K T Munishi
+- Hidetoshi Nagamasu
+- Henrique Eduardo Mendonça Nascimento
+- Marcelo Trindade Nascimento
+- David Neill
+- Reuben Nilus
+- Janaína Costa Noronha
+- Laurent Nsenga
+- Percy Núñez Vargas
+- Lucas Ojo
+- Alexandre A Oliveira
+- Edmar Almeida de Oliveira
+- Fidèle Evouna Ondo
+- Walter Palacios Cuenca
+- Susamar Pansini
+- Marcelo Petratti Pansonato
+- Marcos Ríos Paredes
+- Ekananda Paudel
+- Daniela Pauletto
+- Richard G Pearson
+- José Luis Marcelo Pena
+- R Toby Pennington
+- Carlos A Peres
+- Andrea Permana
+- Pascal Petronelli
+- Maria Cristina Peñuela Mora
+- Juan Fernando Phillips
+- Oliver L Phillips
+- Georgia Pickavance
+- Maria Teresa Fernandez Piedade
+- Nigel C A Pitman
+- Pierre Ploton
+- Andreas Popelier
+- John R Poulsen
+- Adriana Prieto
+- Richard B Primack
+- Hari Priyadi
+- Lan Qie
+- Adriano Costa Quaresma
+- Helder Lima de Queiroz
+- Hirma Ramirez-Angulo
+- José Ferreira Ramos
+- Neidiane Farias Costa Reis
+- Jan Reitsma
+- Juan David Cardenas Revilla
+- Terhi Riutta
+- Gonzalo Rivas-Torres
+- Iyan Robiansyah
+- Maira Rocha
+- Domingos de Jesus Rodrigues
+- M Elizabeth Rodriguez-Ronderos
+- Francesco Rovero
+- Andes H Rozak
+- Agustín Rudas
+- Ervan Rutishauser
+- Daniel Sabatier
+- Le Bienfaiteur Sagang
+- Adeilza Felipe Sampaio
+- Ismayadi Samsoedin
+- Manichanh Satdichanh
+- Juliana Schietti
+- Jochen Schöngart
+- Veridiana Vizoni Scudeller
+- Naret Seuaturien
+- Douglas Sheil
+- Rodrigo Sierra
+- Miles R Silman
+- Thiago Sanna Freire Silva
+- José Renan da Silva Guimarães
+- Murielle Simo-Droissart
+- Marcelo Fragomeni Simon
+- Plinio Sist
+- Thaiane R Sousa
+- Emanuelle de Sousa Farias
+- Luiz de Souza Coelho
+- Dominick V Spracklen
+- Suzanne M Stas
+- Robert Steinmetz
+- Pablo R Stevenson
+- Juliana Stropp
+- Rahayu S Sukri
+- Terry C H Sunderland
+- Eizi Suzuki
+- Michael D Swaine
+- Jianwei Tang
+- James Taplin
+- David M Taylor
+- J Sebastián Tello
+- John Terborgh
+- Nicolas Texier
+- Ida Theilade
+- Duncan W Thomas
+- Raquel Thomas
+- Sean C Thomas
+- Milton Tirado
+- Benjamin Toirambe
+- José Julio de Toledo
+- Kyle W Tomlinson
+- Armando Torres-Lezama
+- Hieu Dang Tran
+- John Tshibamba Mukendi
+- Roven D Tumaneng
+- Maria Natalia Umaña
+- Peter M Umunay
+- Ligia Estela Urrego Giraldo
+- Elvis H Valderrama Sandoval
+- Luis Valenzuela Gamarra
+- Tinde R Van Andel
+- Martin van de Bult
+- Jaqueline van de Pol
+- Geertje van der Heijden
+- Rodolfo Vasquez
+- César I A Vela
+- Eduardo Martins Venticinque
+- Hans Verbeeck
+- Rizza Karen A Veridiano
+- Alberto Vicentini
+- Ima Célia Guimarães Vieira
+- Emilio Vilanova Torre
+- Daniel Villarroel
+- Boris Eduardo Villa Zegarra
+- Jason Vleminckx
+- Patricio von Hildebrand
+- Vincent Antoine Vos
+- Corine Vriesendorp
+- Edward L Webb
+- Lee J T White
+- Serge Wich
+- Florian Wittmann
+- Roderick Zagt
+- Runguo Zang
+- Charles Eugene Zartman
+- Lise Zemagho
+- Egleé L Zent
+- Stanford Zent
 date: "2024-01-10T00:00:00Z"
 doi: "10.1038/s41586-023-06820-z"
 featured: true
