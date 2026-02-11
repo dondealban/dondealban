@@ -9,6 +9,7 @@ date: "2018-02-16T00:00:00Z"
 doi: "10.3390/rs10020306"
 featured: false
 image:
+  placement: 3
   caption: 'Land cover maps in (a) 1995 and (b) 2015, and (c) areas of land cover change within the 20-year period in Tanintharyi Region, Myanmar.'
   focal_point: ""
   preview_only: false
