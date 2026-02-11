@@ -9,7 +9,7 @@ authors:
 - Johanness Jamaludin
 date: "2023-09-01T00:00:00Z"
 doi: ""
-featured: true
+featured: false
 image:
   caption: ""
   focal_point: ""
