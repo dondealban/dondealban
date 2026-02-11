@@ -28,8 +28,8 @@ subtitle = ""
     tag = "*"
 
   [[content.filter_button]]
-    name = "Recent"
-    tag = "recent"
+    name = "Aggregators"
+    tag = "aggregators"
 
   [[content.filter_button]]
     name = "GLP"
@@ -54,6 +54,10 @@ subtitle = ""
   [[content.filter_button]]
     name = "Outlets"
     tag = "outlets"
+
+  [[content.filter_button]]
+    name = "Latest"
+    tag = "latest"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
