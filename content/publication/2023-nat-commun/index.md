@@ -15,7 +15,7 @@ authors:
 - Lian Pin Koh
 date: "2023-12-13T00:00:00Z"
 doi: "10.1038/s41467-023-44127-9"
-featured: true
+featured: false
 image:
   caption: "Relative variability of deforestation emission baselines across jurisdictions globally."
   focal_point: ""

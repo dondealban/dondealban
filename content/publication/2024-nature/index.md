@@ -356,7 +356,7 @@ authors:
 - Stanford Zent
 date: "2024-01-10T00:00:00Z"
 doi: "10.1038/s41586-023-06820-z"
-featured: true
+featured: false
 image:
   placement: 3
   caption: "Location of the 1,568 plots, tropical forest regions, and tropical forest biome extent used in the study. Dots show the location of the plots analysed, coloured by continental region. Dark green shows the Amazonia, Africa and Southeast Asia regions that we extrapolate to. Light green shows 'tropical and subtropical moist broadleaf forests', which we extrapolate to as the closed canopy tropical forest biome."

@@ -118,7 +118,7 @@ authors:
 - Zhekun Zhou
 date: "2025-10-29T00:00:00Z"
 doi: "10.1093/nsr/nwaf465"
-featured: true
+featured: false
 image:
   placement: 3
   caption: "Geographical distribution of predominance of seven categories of environmental variables. Co-limitation refers to areas in which no single factor dominates. (a) Driving factors distribution pattern in pantropical regions, along longitude and latitude. (b) Percentage of main categories driving factors in tropical region."

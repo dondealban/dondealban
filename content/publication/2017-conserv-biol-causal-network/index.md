@@ -8,8 +8,9 @@ authors:
 - Edward L Webb
 date: "2017-08-30T00:00:00Z"
 doi: "10.1111/cobi.12984"
-featured: false
+featured: true
 image:
+  placement: 3
   caption: 'Causal network diagram showing the relationships between underlying drivers and proximate causes of deforestation and forest degradation (arrows, direction of influence labeled according to direction of the effect; colors, proximate causes [pink] and underlying drivers by category: land tenure [yellow], economic [green] and civil war [blue]).'
   focal_point: ""
   preview_only: false
