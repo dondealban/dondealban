@@ -28,28 +28,28 @@ subtitle = ""
     tag = "*"
 
   [[content.filter_button]]
-    name = "Aggregators"
-    tag = "aggregators"
+    name = "Academia"
+    tag = "academia"
 
   [[content.filter_button]]
-    name = "GLP"
-    tag = "GLP"
-
-  [[content.filter_button]]
-    name = "iNGOs"
-    tag = "iNGOs"
+    name = "Industry"
+    tag = "industry"
 
   [[content.filter_button]]
     name = "Media"
     tag = "media"
     
   [[content.filter_button]]
+    name = "Networks"
+    tag = "networks"
+
+  [[content.filter_button]]
     name = "Newspapers"
     tag = "newspapers"
-    
+
   [[content.filter_button]]
-    name = "NUS"
-    tag = "NUS"
+    name = "Organisations"
+    tag = "organisations"
 
   [[content.filter_button]]
     name = "Outlets"
