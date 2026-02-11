@@ -11,7 +11,7 @@ featured: false
 image:
   caption: "Environmental Research Letters' Anniversary Collections and Highlights, featuring my mangrove study published in 2020."
   focal_point: ""
-  placement: 1
+  placement: 2
   preview_only: false
 lastmod: "2024-10-15T00:00:00Z"
 projects:
