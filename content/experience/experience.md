@@ -36,7 +36,7 @@ date_format = "Jan 2006"
   title = "Global Head of Remote Sensing & Geospatial Analysis"
   company = "ClearWind Pte Ltd"
   company_url = "https://www.clearwind.earth"
-  location = "California"
+  location = "Singapore"
   date_start = "2023-05-11"
   date_end = "2023-08-31"
   description = """
@@ -45,4 +45,19 @@ date_format = "Jan 2006"
   * Mentored and line-managed two regional staff (Singapore) and five in-country staff (Philippines).
   """
 
+[[experience]]
+  title = "Research Associate"
+  company = "Centre for Nature-based Climate Solutions, National University of Singapore"
+  company_url = "https://www.nus.edu.sg/cncs/"
+  location = "Singapore"
+  date_start = "2021-07-01"
+  date_end = "2023-05-10"
+  description = """
+  * Led and managed the overall programme implementation and delivery of the Centre’s S$15-million regional Carbon Market Integrity R&D Programme in Southeast Asia, and supervised a team of researchers in developing collaborations, implementing field activities, and data analyses and modeling;
+  * Spearheaded the development and negotiations of research collaborations with academic institutions, corporations, government agencies, and NGOs in Singapore, Philippines, Indonesia, Malaysia, Laos, Thailand, Cambodia, and Vietnam;
+  * Led the overall project implementation and delivery of two research projects focused on technology-driven innovations for enhancing the credibility and integrity of nature-based climate solutions (Singapore and Riau, Indonesia, with a ~S$2-million research project funding);
+  * Collaborated as a science team member of Kyoto & Carbon Initiative led by Japan Aerospace Exploration Agency;
+  * Mentored undergraduate and postgraduate students and junior researchers on research-related activities.
+
+  """
 +++
