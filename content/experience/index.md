@@ -25,8 +25,7 @@ date_format = "Jan 2006"
   location = "Singapore"
   date_start = "2024-09-01"
   date_end = "2026-02-22"
-  description = 
-  """
+  description = """
   * Led the design and development of a large, grouped REDD+ project in Philippines using Verra standards (VCS, CCB) and their methodologies, modules, and tools (VM0048, VMD0055, VT0007) [Project ID](https://registry.verra.org/app/projectDetail/VCS/5510);
   * Managed collaborations and partnerships with stakeholders and partner organisations including investors (family offices), government agencies, international advisors and consultants, project developers, dMRV service providers, ratings agencies, NGOs, and academic institutions;
   * Served as leadership team member and supervised the company’s technical team in Singapore;
@@ -40,8 +39,7 @@ date_format = "Jan 2006"
   location = "California"
   date_start = "2023-05-11"
   date_end = "2023-08-31"
-  description = 
-  """
+  description = """
   * Led the geospatial team of ClearWind in developing core geospatial/remote sensing/GIS components and products required by projects; and in developing in-house geospatial capabilities, infrastructure, and automated systems to support and enable centralised and well-coordinated origination, feasibility screening, development, implementation, and monitoring of projects in Southeast Asia;
   * Led and facilitated the development of with- and without-project scenarios to support the project design of REDD+ and ARR activities and inform the participatory community-based land-use planning of a large, grouped project in Philippines;
   * Mentored and line-managed two regional staff (Singapore) and five in-country staff (Philippines).
