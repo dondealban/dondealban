@@ -26,6 +26,7 @@ date_format = "Jan 2006"
   date_start = "2024-09-01"
   date_end = "2026-02-22"
   description = """
+  
   * Led the design and development of a large, grouped REDD+ project in Philippines using Verra standards (VCS, CCB) and their methodologies, modules, and tools (VM0048, VMD0055, VT0007) [Project ID](https://registry.verra.org/app/projectDetail/VCS/5510);
   * Managed collaborations and partnerships with stakeholders and partner organisations including investors (family offices), government agencies, international advisors and consultants, project developers, dMRV service providers, ratings agencies, NGOs, and academic institutions;
   * Served as leadership team member and supervised the company’s technical team in Singapore;
@@ -40,6 +41,7 @@ date_format = "Jan 2006"
   date_start = "2023-05-11"
   date_end = "2023-08-31"
   description = """
+  
   * Led the geospatial team of ClearWind in developing core geospatial/remote sensing/GIS components and products required by projects; and in developing in-house geospatial capabilities, infrastructure, and automated systems to support and enable centralised and well-coordinated origination, feasibility screening, development, implementation, and monitoring of projects in Southeast Asia;
   * Led and facilitated the development of with- and without-project scenarios to support the project design of REDD+ and ARR activities and inform the participatory community-based land-use planning of a large, grouped project in Philippines;
   * Mentored and line-managed two regional staff (Singapore) and five in-country staff (Philippines).
@@ -53,6 +55,7 @@ date_format = "Jan 2006"
   date_start = "2021-07-01"
   date_end = "2023-05-10"
   description = """
+  
   * Led and managed the overall programme implementation and delivery of the Centre’s S$15-million regional Carbon Market Integrity R&D Programme in Southeast Asia, and supervised a team of researchers in developing collaborations, implementing field activities, and data analyses and modeling;
   * Spearheaded the development and negotiations of research collaborations with academic institutions, corporations, government agencies, and NGOs in Singapore, Philippines, Indonesia, Malaysia, Laos, Thailand, Cambodia, and Vietnam;
   * Led the overall project implementation and delivery of two research projects focused on technology-driven innovations for enhancing the credibility and integrity of nature-based climate solutions (Singapore and Riau, Indonesia, with a ~S$2-million research project funding);
