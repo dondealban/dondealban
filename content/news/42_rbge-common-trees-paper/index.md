@@ -5,7 +5,7 @@ summary: A blog from the RBGE about the findings of our Nature paper.
 tags:
 - organisations
 - latest
-title: Royal Botanic Gardens Edinburgh
+title: Royal Botanic Garden Edinburgh
 url_code: ""
 url_pdf: ""
 url_slides: ""
