@@ -4,6 +4,7 @@ external_link: http://english.xtbg.cas.cn/ns/es/202511/t20251105_1096070.html
 summary:  Our tree species alpha diversity paper featured in Xishuangbanna Tropical Botanical Garden.
 tags:
 - academia
+- latest
 title: Xishuangbanna Tropical Botanical Garden
 url_code: ""
 url_pdf: ""
