@@ -42,9 +42,6 @@ social:
 - icon: publons
   icon_pack: ai
   link: https://publons.com/researcher/1179624/jose-don-de-alban/
-- icon: clarivate
-  icon_pack: ai
-  link: https://www.webofscience.com/wos/author/record/C-7742-2019
 - icon: semantic-scholar
   icon_pack: ai
   link: https://www.semanticscholar.org/author/Jose-Don-T.-De-Alban/37482984
