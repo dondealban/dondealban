@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   company_url = "https://ecocarboncap.com"
   location = "Singapore"
   date_start = "2024-09-01"
-  date_end = ""
+  date_end = "2026-02-22"
   description = 
   """
   * Led the design and development of a large, grouped REDD+ project in Philippines using Verra standards (VCS, CCB) and their methodologies, modules, and tools (VM0048, VMD0055, VT0007) [Project ID](https://registry.verra.org/app/projectDetail/VCS/5510);
