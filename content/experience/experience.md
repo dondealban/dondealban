@@ -39,7 +39,7 @@ date_format = "Jan 2006"
   company_url = "https://www.clearwind.earth"
   location = "Singapore"
   date_start = "2023-05-11"
-  date_end = "2023-08-31"
+  date_end = "2024-08-31"
   description = """
   
   * Led the geospatial team of ClearWind in developing core geospatial/remote sensing/GIS components and products required by projects; and in developing in-house geospatial capabilities, infrastructure, and automated systems to support and enable centralised and well-coordinated origination, feasibility screening, development, implementation, and monitoring of projects in Southeast Asia;
