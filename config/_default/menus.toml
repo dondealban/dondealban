@@ -33,10 +33,10 @@
   url = "#talks"
   weight = 60
 
-# [[main]]
-#  name = "Impact"
-#  url = "impact/"
-#  weight = 70
+[[main]]
+  name = "Impact"
+  url = "impact/"
+  weight = 70
 
 # [[main]]
 #  name = "Experience"
