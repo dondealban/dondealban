@@ -1,7 +1,7 @@
 ---
 date: "2020-07-14T00:00:00Z"
 external_link: https://doi.org/10.1596/34095
-summary: Two studies, a [horizon scanning](https://dondealban.netlify.app/publication/2017-conserv-biol-horizon-scan/) and [causal analysis]((https://dondealban.netlify.app/publication/2017-conserv-biol-causal-network/), both published in Conservation Biology in 2017 were cited in World Bank's Myanmar Country Forest Note.
+summary: Two studies, a [horizon scanning](https://dondealban.netlify.app/publication/2017-conserv-biol-horizon-scan/) and [causal analysis](https://dondealban.netlify.app/publication/2017-conserv-biol-causal-network/), both published in Conservation Biology in 2017 were cited in World Bank's Myanmar Country Forest Note.
 tags: []
 title: World Bank Open Knowledge Repository
 url_code: ""
