@@ -23,17 +23,17 @@ subtitle = "A summary of how my academic publications inform decisions, shape po
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
   filter_default = 1
   
-#  [[content.filter_button]]
-#    name = "All"
-#    tag = "*"
+  [[content.filter_button]]
+    name = "All"
+    tag = "*"
 
-#  [[content.filter_button]]
-#    name = "Latest"
-#    tag = "latest"
+  [[content.filter_button]]
+    name = "Latest"
+    tag = "latest"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "2"
+  columns = "1"
 
   # Toggle between the various page layout types.
   #   1 = List
