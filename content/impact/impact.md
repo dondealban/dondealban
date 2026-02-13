@@ -12,7 +12,7 @@ subtitle = "A summary of how my academic publications inform decisions, shape po
 
 [content]
   # Page type to display. E.g. project.
-  page_type = "impact"
+  page_type = "project"
   
   # Filter toolbar (optional).
   # Add or remove as many filters (`[[content.filter_button]]` instances) as you like.
