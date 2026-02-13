@@ -4,7 +4,7 @@ external_link: https://wedocs.unep.org/handle/20.500.11822/45627
 summary: A UN-REDD Programme and UNEP technical report cited our 2017 [Myanmar deforestation causal analysis](https://dondealban.netlify.app/publication/2017-conserv-biol-causal-network/) in *Conservation Biology*.
 tags:
 - latest
-title: United Nations Environment Programme Knowledge Repository
+title: UN-REDD Programme & United Nations Environment Programme
 url_code: ""
 url_pdf: https://wedocs.unep.org/rest/api/core/bitstreams/ef809016-a17e-42d2-8e45-e11257115081/content
 url_slides: ""

@@ -1,7 +1,7 @@
 ---
 date: "2022-10-01T00:00:00Z"
 external_link: https://www.un-redd.org/document-library/options-analysing-mangrove-ecosystem-services-and-biodiversity-myanmar
-summary: Our 2020 [Myanmar mangrove remote sensing study](https://dondealban.netlify.app/publication/2020-environ-res-lett/) in *Environmental Research Letters* informed UN-REDD's scoping paper.
+summary: Our 2020 [Myanmar mangrove remote sensing analysis](https://dondealban.netlify.app/publication/2020-environ-res-lett/) in *Environmental Research Letters* informed UN-REDD's scoping paper.
 tags: []
 title: UN-REDD Programme
 url_code: ""
