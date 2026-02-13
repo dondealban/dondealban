@@ -1,7 +1,7 @@
 ---
 date: "2024-06-03T00:00:00Z"
 external_link: https://wedocs.unep.org/handle/20.500.11822/45627
-summary: A UN-REDD Programme and UNEP technical report by cited our 2017 Conservation Biology paper.
+summary: A UN-REDD Programme and UNEP technical report cited our [2017 Conservation Biology paper](https://dondealban.netlify.app/publication/2017-conserv-biol-causal-network/).
 tags:
 - latest
 title: United Nations Environment Programme Knowledge Repository
