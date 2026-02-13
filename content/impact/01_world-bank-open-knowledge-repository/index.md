@@ -6,7 +6,7 @@ tags:
 - latest
 title: World Bank Open Knowledge Repository
 url_code: ""
-url_pdf: https://openknowledge.worldbank.org/bitstreams/1a3de023-7c31-5419-bee7-7c3988871906/download
+url_pdf: ""
 url_slides: ""
 url_video: ""
 ---
