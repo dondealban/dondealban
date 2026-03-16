@@ -38,10 +38,10 @@
   url = "impact/"
   weight = 70
 
-# [[main]]
-#  name = "Experience"
-#  url = "experience/"
-#  weight = 70
+[[main]]
+  name = "Experience"
+  url = "experience/"
+  weight = 80
 
 # [[main]]
 #  name = "Tweets"
