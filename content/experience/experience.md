@@ -78,20 +78,6 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Research Associate / Research Assistant"
-  company = "Department of Biological Sciences, National University of Singapore"
-  company_url = "https://www.dbs.nus.edu.sg"
-  location = "Singapore"
-  date_start = "2016-03-27"
-  date_end = "2021-06-30"
-  description = """
-  
-  * Co-authored several scientific publications focused on understanding the causes and drivers of deforestation and land-use change, quantifying and analysing historical forest and land-cover change using cutting-edge geospatial technologies and approaches, and modeling the effects of deforestation and land-cover change on tropical forest tree communities;
-  * Co-developed and wrote research grant proposals successfully funded by Singapore Ministry of Education;
-  * Mentored undergraduate and postgraduate students and junior researchers on research-related activities.
-  """
-
-[[experience]]
   title = "Country Programme Manager & Conservation Geomatics Advisor"
   company = "Fauna & Flora International"
   company_url = "https://www.fauna-flora.org/"
@@ -124,7 +110,7 @@ date_format = "Jan 2006"
   
   * Facilitated the integration of the community-based disaster risk reduction and biodiversity conservation frameworks;
   * Conceptualised the development of an open-source GIS and web-based mapping portal;
-  * Represented the Foundation as a board member in the following institutions including the Philippine Inter-Agency Committee on Environment and Natural Resources Statistics, the Philippine Clearinghouse Mechanism under the Convention on Biological Diversity; and the Resources and Environmental Economics Association of the Philippines;
+  * Represented the Foundation as a board member in the following institutions including the Philippine Inter-Agency Committee on Environment and Natural Resources Statistics, the Philippine Clearinghouse Mechanism under the Convention on Biological Diversity, and the Resources and Environmental Economics Association of the Philippines;
   * Spearheaded the coordination of mapping efforts among organisations for biodiversity conservation initiatives;
   * Completed the closure and evaluation of unclosed/unresolved grants, and communicated with delinquent partners concerning the closure of such projects;
   * Under the Rapid Site Assessment Project (Apr–Sep 2007), appraised proposals submitted by contractors for the conduct of the site-level assessments; conducted monitoring and evaluation of project contractors; drafted and presented project status reports; overseeing institutional data gathering covering project sites; liaised with consultants and contractors; communicated and coordinated with government agencies regarding the acquisition of prerequisite permits for the project; and provided support in the overall administration of the project.
@@ -159,7 +145,7 @@ date_format = "Jan 2006"
   * Presented a review of the National Mining Policy Framework and its implications to Philippine forests and biodiversity at the Senate of the Philippines in 2004;
   * Delivered oral presentations of technical studies in symposia and meetings such as the Annual Symposium of the Wildlife Conservation Society of the Philippines, Regional Meeting of BirdLife Asia, and National Conference on Integrating Forest Conservation with Local Governance;
   * Developed a training module on GIS and mapping in support to biodiversity conservation;
-  * Facilitated GIS training workshops for faculty/research staff in 4 Philippine universities;
+  * Facilitated GIS training workshops for faculty/research staff in four Philippine universities;
   * Published papers such as journal articles, conference proceedings, and technical reports on conservation planning and natural resource management;
   * Conducted field surveys in five Important Bird Areas for site-level profiling and biodiversity conservation planning.
   """
